@@ -1,4 +1,4 @@
-# Burger builder app
+# BURGER BUILDER APP
 
 CSR with React and Firebase
 
