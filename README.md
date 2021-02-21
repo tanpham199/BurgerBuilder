@@ -1,10 +1,8 @@
-# BURGER BUILDER APP USING REACT
+# Burger builder app
 
-## This project uses
-* Firebase
-* React
-* Redux
+CSR with React and Firebase
 
-## Commands
-`npm install`
-`npm start`
+## How to run this app
+
+1. Run ```npm install```
+2. Run ``` npm start ```
